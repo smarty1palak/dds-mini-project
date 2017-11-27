@@ -1,0 +1,124 @@
+$date
+	Tue Nov  7 21:28:44 2017
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1ps
+$end
+$scope module Verilog_129_140 $end
+$var wire 1 ! flag $end
+$var wire 7 " display [6:0] $end
+$var wire 4 # decimal [3:0] $end
+$var reg 4 $ player [3:0] $end
+$scope module uut $end
+$var wire 4 % player [3:0] $end
+$var reg 4 & decimal [3:0] $end
+$var reg 7 ' display [6:0] $end
+$var reg 1 ! flag $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+b1111110 '
+b0 &
+b0 %
+b0 $
+b0 #
+b1111110 "
+1!
+$end
+#10000
+b1 #
+b1 &
+b110000 "
+b110000 '
+b1 $
+b1 %
+#20000
+0!
+b11 $
+b11 %
+#30000
+b111 $
+b111 %
+#40000
+b1111 $
+b1111 %
+#50000
+b0 #
+b0 &
+b1111110 "
+b1111110 '
+1!
+b0 $
+b0 %
+#60000
+b10 #
+b10 &
+b1101101 "
+b1101101 '
+b10 $
+b10 %
+#70000
+0!
+b11 $
+b11 %
+#80000
+b111 $
+b111 %
+#90000
+b1111 $
+b1111 %
+#100000
+b0 #
+b0 &
+b1111110 "
+b1111110 '
+1!
+b0 $
+b0 %
+#110000
+b100 #
+b100 &
+b110011 "
+b110011 '
+b1000 $
+b1000 %
+#120000
+0!
+b1010 $
+b1010 %
+#130000
+b1110 $
+b1110 %
+#140000
+b1111 $
+b1111 %
+#150000
+b0 #
+b0 &
+b1111110 "
+b1111110 '
+1!
+b0 $
+b0 %
+#160000
+b11 #
+b11 &
+b1111001 "
+b1111001 '
+b100 $
+b100 %
+#170000
+0!
+b110 $
+b110 %
+#180000
+b111 $
+b111 %
+#190000
+b1111 $
+b1111 %
